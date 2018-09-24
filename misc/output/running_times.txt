@@ -1,0 +1,5 @@
+El tiempo de ejecucion de la lista lista_10.txt es 0.365 ms.
+El tiempo de ejecucion de la lista lista_100.txt es 2.363 ms.
+El tiempo de ejecucion de la lista lista_1000.txt es 10.289 ms.
+El tiempo de ejecucion de la lista lista_5000.txt es 30.771 ms.
+El tiempo de ejecucion de la lista lista_10000.txt es 68.188 ms.

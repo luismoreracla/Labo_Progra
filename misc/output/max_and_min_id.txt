@@ -1,0 +1,20 @@
+Para la lista lista_10.txt los valores maximos y minimos son:
+El valor maximo es: Enrique Granados Barboza, cedula: 100000009
+El valor minimo es: Gabriela Morales Solis, cedula: 100000000
+
+Para la lista lista_100.txt los valores maximos y minimos son:
+El valor maximo es: Esteban Fernandez Ocampo, cedula: 100000099
+El valor minimo es: Victoria Hernandez Barboza, cedula: 100000000
+
+Para la lista lista_1000.txt los valores maximos y minimos son:
+El valor maximo es: Paola Morales Araya, cedula: 100000999
+El valor minimo es: Manuel Venegas Barboza, cedula: 513
+
+Para la lista lista_5000.txt los valores maximos y minimos son:
+El valor maximo es: Pedro Lopez Fernandez, cedula: 100004999
+El valor minimo es: Carlos Barrantes Villalta, cedula: 100000000
+
+Para la lista lista_10000.txt los valores maximos y minimos son:
+El valor maximo es: Claudia Gutierrez Barahona, cedula: 100009999
+El valor minimo es: Teresa Ocampo Carvajal, cedula: 3489
+

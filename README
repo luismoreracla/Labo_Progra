@@ -1,0 +1,14 @@
+Proyecto creado por Luis Morera Claramunt. B44726.
+
+El siguiente proyecto se encarga de leer las listas contenidas en el directorio
+DataBase/ y crear un arbol tipo AVL a partir de cada una. 
+
+Primero lee el archivo de texto control_parameters.txt, cuyo contenido son las listas con las cedulas
+luego llama a la funcion que se encarga de crear el arbol respectivo. Se toma el tiempo de ejecucion
+y se crea un archivo de texto dentro de misc/output/ donde se guardan todos los tiempos de ejecucion del programa.
+De igual manera se crea otro archivo de texto con la cedula maxima y minima que se haya encontrado.
+
+COMANDOS:
+Para compilar el programa se debe usar el comando make
+Para correr el programa compilar se debe usar el comando make run
+Para correr el programa con los unittests se debe usar el comando make run_unittest
