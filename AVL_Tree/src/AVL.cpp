@@ -1,6 +1,12 @@
 // Luis Morera Claramunt. B44726.
 // En este archivo se define lo que hace cada funcion de la biblioteca
 
+//Observaciones: EN el .h solo se incluyen las funciones que van a utilizar los usuarios, las funciones intermedias no se 
+// incluyen:
+// Los unittest son los primero que se hacen.
+// Los unittest se agrupan, uno solo negativos, otros solo positivos, etc.
+// 
+
 #include "AVL.h"
 
 using namespace std;
