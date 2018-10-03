@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simon Says</string>
+    <string name="play_button">Play</string>
+    <string name="high_scores_button">High Scores</string>
+    <string name="simon_says_message">Simon Says</string>
+</resources>
